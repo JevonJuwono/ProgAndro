@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "TAS_71190435"
+rootProject.name = "TAS_JevonJuwono"
 include ':app'

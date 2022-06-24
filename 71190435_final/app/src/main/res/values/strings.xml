@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">TAS_71190435</string>
+    <string name="app_name">Film Dashboard</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="tahun">Tahun</string>
+    <string name="pemeran1">Pemeran1</string>
+    <string name="genre">Genre</string>
+    <string name="petikdua">:</string>
+    <string name="edit">Edit</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_film">Tambah Film</string>
+    <string name="cari_berdasarkan_nama_film">Cari berdasarkan nama film</string>
+    <string name="cari">Cari</string>
+    <string name="Welcome">Welcome</string>
+    <string name="data_film">Data Film:</string>
 </resources>
